@@ -1,6 +1,5 @@
 #CyX-Team
 #Cyber_Max
-#CyberX10
 #CyX-Devs-team
 ################
 import requests
@@ -21,9 +20,9 @@ case_extensions = ['.PhP', '.Php1', '.PhP2', '.pHP3', '.pHp4', '.PHp5', 'PhtMl']
 def CyX():
      print(red + figlet_format('CyX-Uploader'))
      print(green + '''
-     Telegram = @CyX_Security
-     Github = https://www.github.com/CyberX101
-     Programmer{} = @CyberX10	
+     Telegram = @CyberSpyWare
+     Github = CyberX101
+     Programmer{} = @CyberTrojan
       
      ''')
      
